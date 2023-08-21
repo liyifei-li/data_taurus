@@ -1,0 +1,11 @@
+<li><a href="https://www.gushidaquan.com.cn/c/ertong">儿童故事</a></li>
+<li><a href="https://www.gushidaquan.com.cn/c/shuiqian">睡前故事</a></li>
+<li><a href="https://www.gushidaquan.com.cn/c/tonghu">童话故事</a></li>
+<li><a href="https://www.gushidaquan.com.cn/c/yuyan">寓言故事</a></li>
+<li><a href="https://www.gushidaquan.com.cn/c/chengyu">成语故事</a></li>
+<li><a href="https://www.gushidaquan.com.cn/c/lishi">历史故事</a></li>
+<li><a href="https://www.gushidaquan.com.cn/c/mingren">名人故事</a></li>
+<li><a href="https://www.gushidaquan.com.cn/c/minjian">民间故事</a></li>
+<span><a href="https://www.gushidaquan.com.cn/c/taijiao" rel="category tag">胎教故事</a>
+<a href="https://www.gushidaquan.com.cn/c/xiaogushi" rel="category tag">小故事</a>
+<a href="https://www.gushidaquan.com.cn/c/youmo" rel="category tag">幽默故事</a>
